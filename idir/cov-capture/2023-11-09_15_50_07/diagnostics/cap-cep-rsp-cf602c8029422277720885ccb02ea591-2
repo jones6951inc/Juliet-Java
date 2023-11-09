@@ -1,0 +1,9 @@
+--no-banner
+--project-view
+idir/cov-capture/2023-11-09_15_50_07/project-info/java-maven-projects.json
+--dir
+idir
+--logging-endpoint
+idir/cov-capture/cov-internal-fluentd-port
+--config
+/Users/mjones/Development/Juliet/Java/idir/cov-capture/2023-11-09_15_50_07/compiler-config/java/coverity_config.xml

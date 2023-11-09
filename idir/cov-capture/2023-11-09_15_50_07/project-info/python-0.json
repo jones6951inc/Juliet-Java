@@ -1,0 +1,164 @@
+
+{
+  "/Users/mjones/Development/Juliet/java" : 
+  {
+    "Emit" : 
+    [
+      
+      {
+        "CompilerName" : "cov-filesystem-capture-python-0",
+        "DependencyInfo" : 
+        {
+          "Dependencies" : []
+        },
+        "Language" : "Python",
+        "SourceInfo" : 
+        {
+          "Sources" : 
+          {
+            "MAIN" : 
+            [
+              "create_per_cwe_files.py",
+              "py_common.py",
+              "run_analysis_example_tool.py",
+              "update_Main_java_ServletMain_java_and_web_xml.py"
+            ]
+          }
+        },
+        "Type" : "SOURCE"
+      }
+    ],
+    "Mode" : "Project",
+    "ProjectDir" : "/Users/mjones/Development/Juliet/java",
+    "ProjectFile" : "/Users/mjones/Development/Juliet/java",
+    "State" : 
+    {
+      "Administrative" : "Succeeded",
+      "Operational" : "Completed"
+    },
+    "Status" : "OK",
+    "Telemetry" : 
+    [
+      
+      {
+        "Data" : 
+        {
+          "NewState" : 
+          {
+            "Administrative" : "Inspected",
+            "Operational" : "Inspected"
+          },
+          "PreviousState" : 
+          {
+            "Administrative" : "Inspected",
+            "Operational" : "Inspecting"
+          },
+          "ProjectFile" : "/Users/mjones/Development/Juliet/java"
+        },
+        "DateTime" : "2023-11-09T15:50:23.591-05:00",
+        "EventType" : "StateTransition",
+        "Type" : "EVENT"
+      },
+      
+      {
+        "Data" : 
+        {
+          "NewState" : 
+          {
+            "Administrative" : "Emitted",
+            "Operational" : "Inspected"
+          },
+          "PreviousState" : 
+          {
+            "Administrative" : "Inspected",
+            "Operational" : "Inspected"
+          },
+          "ProjectFile" : "/Users/mjones/Development/Juliet/java"
+        },
+        "DateTime" : "2023-11-09T15:50:23.592-05:00",
+        "EventType" : "StateTransition",
+        "Type" : "EVENT"
+      },
+      
+      {
+        "Data" : 
+        {
+          "NewState" : 
+          {
+            "Administrative" : "Emitted",
+            "Operational" : "Emitting"
+          },
+          "PreviousState" : 
+          {
+            "Administrative" : "Emitted",
+            "Operational" : "Inspected"
+          },
+          "ProjectFile" : "/Users/mjones/Development/Juliet/java"
+        },
+        "DateTime" : "2023-11-09T15:50:23.699587",
+        "EventType" : "StateTransition",
+        "Type" : "EVENT"
+      },
+      
+      {
+        "Data" : 
+        {
+          "NewState" : 
+          {
+            "Administrative" : "Emitted",
+            "Operational" : "Emitted"
+          },
+          "PreviousState" : 
+          {
+            "Administrative" : "Emitted",
+            "Operational" : "Emitting"
+          },
+          "ProjectFile" : "/Users/mjones/Development/Juliet/java"
+        },
+        "DateTime" : "2023-11-09T15:50:24.181926",
+        "EventType" : "StateTransition",
+        "Type" : "EVENT"
+      },
+      
+      {
+        "Data" : 
+        {
+          "NewState" : 
+          {
+            "Administrative" : "Succeeded",
+            "Operational" : "Emitted"
+          },
+          "PreviousState" : 
+          {
+            "Administrative" : "Emitted",
+            "Operational" : "Emitted"
+          },
+          "ProjectFile" : "/Users/mjones/Development/Juliet/java"
+        },
+        "DateTime" : "2023-11-09T15:50:24.181997",
+        "EventType" : "StateTransition",
+        "Type" : "EVENT"
+      },
+      
+      {
+        "Data" : 
+        {
+          "NewState" : 
+          {
+            "Administrative" : "Succeeded",
+            "Operational" : "Completed"
+          },
+          "PreviousState" : 
+          {
+            "Administrative" : "Succeeded",
+            "Operational" : "Emitted"
+          },
+          "ProjectFile" : "/Users/mjones/Development/Juliet/java"
+        },
+        "DateTime" : "2023-11-09T15:50:24.182030",
+        "EventType" : "StateTransition",
+        "Type" : "EVENT"
+      }
+    ]
+  }
+}

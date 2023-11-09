@@ -1,0 +1,9 @@
+/opt/homebrew/opt/openjdk@17/bin/java
+-jar
+/Users/mjones/Tools/Coverity/cov-analysis-macos-arm-2023.9.0/jars/cov-inspect-project-gradle.jar
+--project-dir
+/Users/mjones/Development/Juliet/java
+--output-file
+idir/cov-capture/2023-11-09_15_50_07/project-info/java-gradle-projects.json
+--logging-endpoint
+idir/cov-capture/cov-internal-fluentd-port

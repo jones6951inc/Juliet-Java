@@ -1,0 +1,6 @@
+/Users/mjones/Tools/Coverity/cov-analysis-macos-arm-2023.9.0/bin/cov-security-da --dir idir --project-dirs . 
+cov-security-da version 2023.9.0 on Darwin 22.6.0 arm64
+Internal version numbers: 801eb59666 p-2023.9-push-59
+
+da: Resolved root symlinks in /var/folders/7w/zyjhzwls6t19jqm9sgyr9wb80000gq/T/cov-mjones/27cc6e24f5154a1751fdded6e9068b6a/template_da to /private/var/folders/7w/zyjhzwls6t19jqm9sgyr9wb80000gq/T/cov-mjones/27cc6e24f5154a1751fdded6e9068b6a/template_da
+da: [WARNING] Failed to identify any likely projects. Aborting template-DA.

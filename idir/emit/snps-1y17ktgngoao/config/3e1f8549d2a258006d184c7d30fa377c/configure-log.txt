@@ -1,0 +1,4 @@
+Native Compiler invocation: ./ /Users/mjones/Development/Juliet/java/create_per_cwe_files.py /Users/mjones/Development/Juliet/java/py_common.py /Users/mjones/Development/Juliet/java/run_analysis_example_tool.py /Users/mjones/Development/Juliet/java/update_Main_java_ServletMain_java_and_web_xml.py
+Working directory: /Users/mjones/Development/Juliet/Java
+Comptype: python
+* Configuring Python Filesystem Capture

@@ -1,0 +1,1 @@
+Added template compiler configuration instance /Users/mjones/Development/Juliet/Java/idir/emit/snps-1y17ktgngoao/config/3e1f8549d2a258006d184c7d30fa377c/coverity_config.xml
