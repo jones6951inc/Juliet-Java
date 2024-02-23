@@ -1,8 +1,0 @@
-[INFO] Scanning for maven projects.
-[INFO] Using Maven "/opt/homebrew/bin/mvn"
-[INFO] Scanning for gradle projects.
-[INFO] Using JDK for Gradle capture "/opt/homebrew/opt/openjdk@17".
-[INFO] Finished scanning for Java projects.
-[INFO] Scanning the file system for JavaScript, PHP, Python, Ruby, TypeScript, Apex, and Web App Configuration files.
-[INFO] Finished scanning the file system for JavaScript, PHP, Python, Ruby, TypeScript, Apex, and Web App Configuration files.
-[INFO] Successfully found Python files for project "/Users/mjones/Development/Juliet/java".

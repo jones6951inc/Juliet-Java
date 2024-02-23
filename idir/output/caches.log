@@ -1,7 +1,0 @@
-builtinModels: size = 1000, miss rate: 62 / 186 (33.33%)
-derivedModels: size = 200, miss rate: 62 / 6501 (0.95%)
-TUInfos: size = 100, miss rate: 4 / 21159 (0.02%)
-GetCallees: size = 1000, miss rate: 62 / 310 (20.00%)
-GetDynamicCallees: size = 1000, miss rate: 62 / 186 (33.33%)
-GetCallers: size = 1000, miss rate: 62 / 868 (7.14%)
-Redirected file descriptors: size = 10, miss rate: 4 / 285 (1.40%)

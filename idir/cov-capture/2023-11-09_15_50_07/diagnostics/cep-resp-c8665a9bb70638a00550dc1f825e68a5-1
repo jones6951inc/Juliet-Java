@@ -1,9 +1,0 @@
---dir
-/Users/mjones/Development/Juliet/Java/idir
---config
-/Users/mjones/Development/Juliet/Java/idir/cov-capture/2023-11-09_15_50_07/compiler-config/python/coverity_config.xml
-cov-filesystem-capture-python-0
-/Users/mjones/Development/Juliet/java/create_per_cwe_files.py
-/Users/mjones/Development/Juliet/java/py_common.py
-/Users/mjones/Development/Juliet/java/run_analysis_example_tool.py
-/Users/mjones/Development/Juliet/java/update_Main_java_ServletMain_java_and_web_xml.py

@@ -1,9 +1,0 @@
-/Users/mjones/Tools/Coverity/cov-analysis-macos-arm-2023.9.0/bin/cov-inspect-project
---cov-capture-dir
-/Users/mjones/Development/Juliet/Java/idir/cov-capture
---project-dir
-.
---output-dir
-idir/cov-capture/2023-11-09_15_50_07/project-info
---logging-endpoint
-idir/cov-capture/cov-internal-fluentd-port
